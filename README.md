@@ -3,4 +3,4 @@ Silakan lengkapi tabel berikut dengan nama lengkap dan NRP:
 
 | Nama              | NRP        |
 |-------------------|------------|
-| [Nama Lengkap]    | [NRP]      |
+| Rayhan Lutfi Hakim    | 5054251043      |
